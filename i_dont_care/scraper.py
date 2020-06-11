@@ -5,8 +5,6 @@ from i_dont_care import main
 
 def get_location():
 
-    # # City/Area location
-
     # # option 1 - manual prompt
     # # city_prompt = "What city do you live in?"
     
